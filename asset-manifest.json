@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Truthfinderai/static/css/main.56e92a24.css",
-    "main.js": "/Truthfinderai/static/js/main.255aaaa5.js",
-    "static/js/453.670e15c7.chunk.js": "/Truthfinderai/static/js/453.670e15c7.chunk.js",
-    "index.html": "/Truthfinderai/index.html",
-    "main.56e92a24.css.map": "/Truthfinderai/static/css/main.56e92a24.css.map",
-    "main.255aaaa5.js.map": "/Truthfinderai/static/js/main.255aaaa5.js.map",
-    "453.670e15c7.chunk.js.map": "/Truthfinderai/static/js/453.670e15c7.chunk.js.map"
+    "main.css": "/Truthfinderai-frontend/static/css/main.56e92a24.css",
+    "main.js": "/Truthfinderai-frontend/static/js/main.9bc741d8.js",
+    "static/js/453.670e15c7.chunk.js": "/Truthfinderai-frontend/static/js/453.670e15c7.chunk.js",
+    "index.html": "/Truthfinderai-frontend/index.html",
+    "main.56e92a24.css.map": "/Truthfinderai-frontend/static/css/main.56e92a24.css.map",
+    "main.9bc741d8.js.map": "/Truthfinderai-frontend/static/js/main.9bc741d8.js.map",
+    "453.670e15c7.chunk.js.map": "/Truthfinderai-frontend/static/js/453.670e15c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56e92a24.css",
-    "static/js/main.255aaaa5.js"
+    "static/js/main.9bc741d8.js"
   ]
 }
