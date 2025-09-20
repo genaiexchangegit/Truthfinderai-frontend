@@ -18,7 +18,7 @@ const TruthFinderApp = () => {
     setAnalysis(null);
 
     try {
-      const response = await fetch('https://truthfinderai-backend.onrender.com', {
+      const response = await fetch('https://truthfinderai-backend.onrender.com/analyze', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
