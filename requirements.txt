@@ -1,0 +1,6 @@
+# backend/requirements.txt
+
+Flask
+Flask-Cors
+google-generativeai
+newspaper3k
